@@ -1,7 +1,9 @@
 '''
-    program menampilkan nilai huruf x
-    created by Silvianus iraniyanto domi (20083000072)
-    kelas 2A
+program menampilkan nilai huruf x
+created by ACH.SADILI 
+           (20083000030)
+           kelas 2A
+           dibuat pada tgl 13/06/2021
 '''
 import os
 clear = lambda : os.system("cls")
