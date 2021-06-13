@@ -1,7 +1,7 @@
 '''
 program cek nilai huruf
 created by ACH.SADILI 
-           (20083000030)
+          (20083000030)
            kelas 2A
            dibuat pada tgl 13/06/2021
 '''
