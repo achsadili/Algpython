@@ -1,6 +1,8 @@
 '''
-SINKLAUS PATREZKI DAE
+ACH SADILI
+20083000030
 KELAS 2A
+dibuat tgl: 20/06/2021
 '''
 import os
 clear = lambda : os.system('cls')
