@@ -1,8 +1,10 @@
 
 """
-Nama  : Hasanah Nisa Putri Rejeki
-Nim   : 20083000019
-Kelas : 2A
+Nama    : Ach.sadili
+nim     : 20083000030
+Kelas   : 2A
+
+dibuat tanggal 02/07/2021
 """
 print("==============================================")
 print(" KANTIN FAKULTAS TEKNOLOGI INFORMASI ")
